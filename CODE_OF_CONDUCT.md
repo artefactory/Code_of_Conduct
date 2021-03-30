@@ -30,13 +30,13 @@ community include:
 
 Examples of unacceptable behavior include:
 
+* Publishing any clients source code, dataset, or any information that belongs to our clients portfolio
 * The use of sexualized language or imagery, and sexual attention or
   advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
-* Publishing any clients source code, dataset, or any information that belongs to our clients portfolio  
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
@@ -115,6 +115,12 @@ individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
+
+### 5. Internal Sanctions
+
+**Community Impact**: Any violations that would breach the trust relationship between Artefact and its clients and partners, such as publishing unauthorized software or datasets.
+**Consequence**:  An internal, written warning from technical leaders, providing
+clarity around the nature of the violation. According to the severity or frequency of the violation, further actions could be taken internally.
 
 ## Attribution
 
